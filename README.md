@@ -78,19 +78,3 @@ Cozinho, leio, jogo, treino. Gosto de time — trabalhei em quatro pessoas no Do
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusrobaskievicz)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinirmar@gmail.com)
 
----
-
-<p align="center">
-  <i>"O conhecimento que a gente adquire se multiplica quando é compartilhado."</i>
-</p>
-
-<!--
-  Aqui tinha um card de linguagens do github-readme-stats. Ele quebrou: aquele serviço é
-  uma instância pública compartilhada por milhares de perfis e estoura o limite da API do
-  GitHub o tempo todo. Quando falha, o proxy de imagens do GitHub guarda o erro em cache.
-  Se quiser tentar de novo, cole a linha abaixo e troque o v=2 por v=3 a cada tentativa —
-  o parâmetro novo força o GitHub a buscar a imagem outra vez em vez de reusar o erro:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusrmar&layout=compact&theme=nightowl&hide_border=true&langs_count=6&v=2" alt="Linguagens mais usadas">
--->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0E2138&section=footer" alt="Footer"/>
